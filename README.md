@@ -2,8 +2,8 @@
 
 Welcome to the **Olive Lane Co-operative Network** — a command-line interface (CLI) co-operative management system I built back in 2022. This project was my attempt to simulate a basic co-operative society model where users can save money, request loans, and manage membership details.
 
+![co-operative-sociteies-solutions ](https://github.com/user-attachments/assets/3249caf1-3ef2-418c-b887-addebc014046)
 
-![co-operative-sociteies-solutions (1)](https://github.com/user-attachments/assets/4f47f52f-8da9-4c3a-bfe8-341b83b8ba08)
 ---
 
 ## Features
@@ -66,4 +66,4 @@ CREATE TABLE lagos_branch (
 - It’s not production-grade but serves as a great educational foundation for database operations and logic structuring in Python.
 
 ## Let's Connect
-- LinkedIn: linkedin.com/in/eniola-hannah
+- 🌟[LinkedIn](linkedin.com/in/eniola-hannah)
