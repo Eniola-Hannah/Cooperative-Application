@@ -2,8 +2,8 @@
 
 Welcome to the **Olive Lane Co-operative Network** — a command-line interface (CLI) co-operative management system I built back in 2022. This project was my attempt to simulate a basic co-operative society model where users can save money, request loans, and manage membership details.
 
-![co-operative-sociteies-solutions ](https://github.com/user-attachments/assets/3249caf1-3ef2-418c-b887-addebc014046)
 
+![co-operative-sociteies-solutions](https://github.com/user-attachments/assets/495c3e26-2948-4a36-aa6b-c877a3ce50fb)
 ---
 
 ## Features
